@@ -1,2 +1,5 @@
 server:
   port: 8888
+  
+config:
+  info: version1.0
